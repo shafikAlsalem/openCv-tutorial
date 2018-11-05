@@ -6,7 +6,7 @@
 using namespace std;
 using namespace cv;
 
-
+//HELLO SHAFIKOO
 int main()
 {
     VideoCapture cap;
